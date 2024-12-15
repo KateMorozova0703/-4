@@ -5,3 +5,17 @@ touch file1.txt
 git commit "add new file"
 git commit -m "add new file"
 git status
+touch file2.txt
+git commit "add new file"
+git commit -m "add new file"
+touch file3.txt
+git commit "add new file"
+git commit -m "add new file"
+git checkout -b гілка2
+touch file4.txt
+git commit "add new file"
+git commit -m "add new file"
+git checkout -b гілка3
+touch file5.txt
+git commit "add new file"
+git commit -m "add new file"
